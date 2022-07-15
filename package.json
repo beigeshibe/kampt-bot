@@ -1,0 +1,8 @@
+{
+  "name": "kampt-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:beigeshibe/kampt-bot.git",
+  "author": "gavin anwari <gavinanwari456@gmail.com>",
+  "license": "MIT"
+}
