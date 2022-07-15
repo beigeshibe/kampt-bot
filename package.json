@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:beigeshibe/kampt-bot.git",
   "author": "gavin anwari <gavinanwari456@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "glob": "^8.0.3"
+  }
 }
